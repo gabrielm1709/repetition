@@ -1,0 +1,13 @@
+C:\Users\gabriel.morck\source\repos\repetition\bin\Debug\netcoreapp3.1\repetition.exe
+C:\Users\gabriel.morck\source\repos\repetition\bin\Debug\netcoreapp3.1\repetition.deps.json
+C:\Users\gabriel.morck\source\repos\repetition\bin\Debug\netcoreapp3.1\repetition.runtimeconfig.json
+C:\Users\gabriel.morck\source\repos\repetition\bin\Debug\netcoreapp3.1\repetition.runtimeconfig.dev.json
+C:\Users\gabriel.morck\source\repos\repetition\bin\Debug\netcoreapp3.1\repetition.dll
+C:\Users\gabriel.morck\source\repos\repetition\bin\Debug\netcoreapp3.1\repetition.pdb
+C:\Users\gabriel.morck\source\repos\repetition\obj\Debug\netcoreapp3.1\repetition.csprojAssemblyReference.cache
+C:\Users\gabriel.morck\source\repos\repetition\obj\Debug\netcoreapp3.1\repetition.AssemblyInfoInputs.cache
+C:\Users\gabriel.morck\source\repos\repetition\obj\Debug\netcoreapp3.1\repetition.AssemblyInfo.cs
+C:\Users\gabriel.morck\source\repos\repetition\obj\Debug\netcoreapp3.1\repetition.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.morck\source\repos\repetition\obj\Debug\netcoreapp3.1\repetition.dll
+C:\Users\gabriel.morck\source\repos\repetition\obj\Debug\netcoreapp3.1\repetition.pdb
+C:\Users\gabriel.morck\source\repos\repetition\obj\Debug\netcoreapp3.1\repetition.genruntimeconfig.cache
