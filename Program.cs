@@ -12,9 +12,6 @@ namespace repetition
             // Uppgift 2
             Console.WriteLine("Once upon a time\nI was falling in love\nNow I’m only falling apart");
 
-
-            // Uppgift 3
-
             // Uppgift 4
             string text = "Live and Sleep";
             Console.WriteLine(text);
