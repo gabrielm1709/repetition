@@ -118,7 +118,7 @@ namespace repetition
                 }
             }
 
-            // Uppgift 40
+            // Uppgift 40 
             num = int.MinValue;
             int sum = 0;
             int cnt = -1;
@@ -129,6 +129,47 @@ namespace repetition
                 cnt += 1;
             }
             Console.WriteLine($"Summa: {sum}, antal: {cnt}");
+            
+            // Svårare uppgifter
+
+            // Uppgift 1 
+            int len = 5;
+            int[] arr = new int[len];
+            Console.WriteLine("Array:");
+            for (int i = 0; i < len; i++) 
+            {
+                int numb = int.Parse(Console.ReadLine());
+                arr[i] = numb;
+            }
+            for (int i = 0; i < len; i++)
+            {
+                Console.Write($"{arr[i]} ");
+            }
+
+            int[] sortedArr = sort(arr);
+            Console.WriteLine("\nSorted Array:");
+            for (int i = 0; i < len; i++) 
+            {
+                Console.Write($"{sortedArr[i]} ");
+            }
+        }
+
+        static int[] sort(int[] arr) 
+        {
+            for (int i = 0; i < arr.Length; i++)
+            {
+                for (int j = i; j < arr.Length; j++) 
+                {
+                    if(arr[i] > arr[j]) 
+                    {
+                        int saved = arr[i];
+                        arr[i] = arr[j];
+                        arr[j] = saved;
+                    }
+                }
+            }
+                
+            return arr;
         }
     }
 }
